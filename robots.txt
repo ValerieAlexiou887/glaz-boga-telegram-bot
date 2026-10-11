@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://osint-intelligence.github.io/glaz-boga-telegram-bot/sitemap.xml

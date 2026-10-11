@@ -1,0 +1,16 @@
+token.txt
+*.png
+*.log
+page_dump.html
+token_page_dump.html
+dump_page.py
+inspect_token_page.py
+generate_token_final.py
+verify_and_token.py
+automate_github_session.py
+test_totp.py
+test_mail_tm.py
+test_real_chrome.py
+scratch*
+__pycache__/
+*.pyc
